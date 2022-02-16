@@ -1,0 +1,5 @@
+1. name onno kicu dite hobe emoji na dileo cholbe
+2. responsive korte hobe
+3. error handling for string and negetive number
+4.function diye korte hobe
+5.comment korte hbe all file
